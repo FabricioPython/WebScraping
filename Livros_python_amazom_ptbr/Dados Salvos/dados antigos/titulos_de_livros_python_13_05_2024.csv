@@ -1,0 +1,768 @@
+,0
+0,Curso Intensivo de Python: uma Introdução Prática e Baseada em Projetos à Programação
+1,Introdução à Programação com Python – 4ª Edição: Algoritmos e lógica de programação para iniciantes
+2,"Python Para Análise de Dados: Tratamento de Dados com Pandas, NumPy & Jupyter"
+3,Pense em Python: Pense Como um Cientista da Computação
+4,Data Science do zero: noções fundamentais com Python
+5,Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes
+6,Use a cabeça! Python ― 2ª edição
+7,Sistemas de Controle com Python: Resposta em Frequência
+8,Python para excel: um ambiente moderno para automação e análise de dados (O’Reilly)
+9,Problemas Clássicos de Ciência da Computação com Python
+10,Web Scraping com Python: Coletando Mais Dados da web Moderna
+11,"Python e Mercado Financeiro: Programação Para Estudantes, Investidores e Analistas"
+12,Começando a programar em Python Para leigos
+13,Fundamentos de Python: Primeiros Programas
+14,Python Para Ciência de Dados: uma Introdução Prática
+15,"Python Levado a Sério: Conselhos de um Faixa-preta Sobre Implantação, Escalabilidade, Testes e Outros Assuntos"
+16,Python para Data Science: e Machine Learning descomplicado
+17,Introdução à Computação Usando Python - um Foco no Desenvolvimento de Aplicações
+18,O Guia do Mochileiro Python: Melhores Práticas Para Desenvolvimento
+19,Python para Data Science Para Leigos: os primeiros passos para o sucesso
+20,Jornada Python: uma Jornada Imersiva na Aplicabilidade de uma das Mais Poderosas Linguagens de Programação do Mundo (Volume 1)
+21,400+ Exercícios Resolvidos e Comentados em Python: Do básico ao avançado
+22,"Python Fluente: Programação Clara, Concisa e Eficaz"
+23,6 em 1 - Coleção Python do ZERO às Redes Neurais Artificiais
+24,"Estruturas de Dados e Algoritmos com Python: Armazene, manipule e acesse dados de forma eficaz e melhore o desempenho de suas aplicações"
+25,Lógica de programação: A construção de algoritmos e estruturas de dados com aplicações em Python
+26,"Streamlit Faça Tudo! Desenvolva Aplicação web, Dashboards, Ciência de Dados e Plotagem de Mapas.: Do Iniciante ao Avançado!"
+27,"Projetos com Python e Arduino: Como Desenvolver Projetos Práticos de Eletrônica, Automação e Iot"
+28,Python Eficaz: 59 Maneiras de Programar Melhor em Python
+29,Machine Learning – Guia de Referência Rápida: Trabalhando com Dados Estruturados em Python
+30,"Mãos à obra aprendizado de máquina com Scikit-Learn, Keras & TensorFlow: conceitos, ferramentas e técnicas para a construção de sistemas inteligentes"
+31,Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos
+32,Python Essencial (Série Programação Essencial)
+33,Python e R para o Cientista de Dados Moderno: O melhor de dois mundos
+34,Aprendendo Padrões de Projeto em Python: Tire Proveito da Eficácia dos Padrões de Projeto (design Patterns) em Python Para Resolver Problemas do Mundo Real em Arquitetura e Design de Software
+35,Fundamentos de Python: Estruturas de Dados
+36,Curso Intensivo de MySQL: Introdução Prática ao Desenvolvimento Baseado em Banco de Dados
+37,Matemática com Python: um Guia Prático
+38,"Programação Python com ChatGPT: O guia do iniciante para aprender o básico de Python com ChatGPT, com exemplos de código"
+39,Python Para Desenvolvedores: Aborda Python 3.3
+40,Data Science para negócios: o que você precisa saber sobre mineração de dados e pensamento analítico de dados
+41,PYTHON TOTAL - Fernando Feltrin
+42,Como Automatizar as suas planilhas do Excel e Google Sheets com Python: Ganhe tempo e dinheiro colocando suas planilhas chatas e repetitivas no automático (produtividadeprogramada.com.br)
+43,Python + Numpy na Prática!!!: Aprenda manipulação de arrays através de exercícios comentados.
+44,"Estatística: O que é, para que serve, como funciona"
+45,Python Direto Ao Ponto
+46,Python Para Pentest
+47,Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes
+48,Programador Autodidata: Guia Definitivo Para Programar Profissionalmente
+49,DOMINANDO PYTHON CURSO COMPLETO
+50,Criando Microsserviços – 2ª Edição: Projetando sistemas com componentes menores e mais especializados
+51,Introdução a Linguagem de Programação Python
+52,Python 3 Conceitos e Aplicações: Uma Abordagem Didática
+53,Construindo Chatbots com Python: Usando Natural Language Processing e Machine Learning
+54,Engenharia de Software para Ciência de Dados: Um guia de boas práticas com ênfase na construção de sistemas de Machine Learning em Python
+55,Fundamentos de programação Python: Aprender fazendo
+56,Python do ZERO à Programação Orientada a Objetos
+57,Aumente sua Produtividade com Python: 20 Códigos Incríveis Prontos para Usar
+58,Python Aplicado: Bolsa de Valores - Um guia para construção de análises e indicadores
+59,Introdução à Programação para Bioinformática com Biopython
+60,Introdução à Programação para Engenharia - Usando a Linguagem Python
+61,"Manual de Análise de Dados – Estatística e Machine Learning com Excel®, SPSS®, Stata®, R® e Python®"
+62,Python: Guia prático do básico ao avançado (Cientista de dados Livro 2)
+63,Ciência de Dados - Fundamentos e Aplicações
+64,SQL Para Análise de Dados: Técnicas Avançadas Para Transformar Dados em Insights
+65,Aprenda programar Python + Django framework: Curso de criação de softwares completos
+66,Python Para Data Science Para Leigos
+67,Dominando Python: 100+ Exercícios Resolvidos e Comentados para Acelerar seu Aprendizado (Dominando a Programação)
+68,Estatística prática para cientistas de dados: 50 conceitos essenciais
+69,Programação prática com python: Do básico aos conceitos avançados
+70,Desenvolvimento web com Django 3 Cookbook: Soluções Práticas Para Problemas Comuns no Desenvolvimento web com Python
+71,50 CÓDIGOS PRONTOS FEITOS EM PYTHON EDITION 2 (Série Python Masterclass: Códigos Prontos e Passo a Passo)
+72,"Mini Curso de Python: Todo o necessário para você criar seus primeiros programas em Python, em menos de 50 páginas de conteúdo!"
+73,Python:: Introdução à Inteligência Artificial
+74,Programação Python com ChatGPT: ChatGPT solicita que você passe do iniciante ao avançado na programação python
+75,Fluxo do trabalho com dados: do zero à prática
+76,Cientista da Computação Autodidata: Guia de Estruturas de Dados e Algoritmos Para o Iniciante
+77,"Python: Guia prático de Programação: Uma abordagem simples, para verdadeiros iniciantes (produtividadeprogramada.com.br)"
+78,Introdução a Programação com Python
+79,Expressões Regulares: Uma Abordagem Divertida
+80,Domain-driven design: atacando as complexidades no coração do software
+81,"Domine o Python (3 em 1): Python Data Science, Python em 60 minutos e Aumente sua Produtividade com Python"
+82,100 Conhecimentos Essenciais para Iniciantes em Python
+83,O Grande Livro de Raciocínio e Lógica
+84,Programação Python: aprenda de forma rápida
+85,Introdução à Visão Computacional: Uma abordagem prática com Python e OpenCV
+86,O livro da matemática
+87,Python sem Mistérios
+88,O Guia da Carreira-Solo dos Membros do Monty Python: De 1970 ao Covid-19
+89,Python para crianças
+90,Tratamento de Dados com Python + Pandas
+91,"TDD com Python: Siga o Bode dos Testes: Usando Django, Selenium e JavaScript"
+92,O Grande Livro do Excel - Intermediário e Avançado
+93,Python em 60 minutos: Guia Rápido para Iniciantes
+94,PYTHON GAMES: INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON E JOGOS
+95,Bancos de Dados Relacionais com Python e SQL
+96,Python Automação Suprema: Domine as Melhores Soluções para Impulsionar sua Produtividade e Transformar sua Vida (Programação Descomplicada: Domine as Linguagens do Futuro de um jeito rápido e fácil)
+97,Python em 60 minutos: Guia Rápido para Iniciantes
+98,Interfaces Gráficas Modernas com Python e Flet
+99,Algoritmos Em Python: Explica Algoritmos Python com Belas Imagens Aprenda Fácil e Melhor
+100,"Projetos de Ciência de Dados com Python: Abordagem de Estudo de Caso Para a Criação de Projetos de Ciência de Dados Bem-sucedidos Usando Python, Pandas e Scikit-learn"
+101,Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software
+102,Algoritmos: Lógica Para Desenvolvimento de Programação de Computadores - Edição Revisada e Atualizada
+103,Análise prática de séries temporais: predição com estatística e aprendizado de máquina
+104,Automatização com Python: Automatização com Python
+105,Python Cookbook
+106,Storytelling com dados: um guia sobre visualização de dados para profissionais de negócios
+107,Python + TensorFlow 2.X - Fernando Feltrin
+108,"Desenvolvendo aplicativos com GPT-4 e ChatGPT: Crie chatbots inteligentes, geradores de conteúdo e muito mais"
+109,PYTHON NA PRÁTICA: Aprenda Linguagem Python Através de Projetos Reais
+110,Python: Escreva seus primeiros programas
+111,Interfaces Gráficas com Python + PyQt6
+112,Introdução à computação e programação usando Python
+113,Python: Escreva seus primeiros programas
+114,Fundamentos de Python para Ciência de Dados
+115,PYTHON NA PRÁTICA: Aprenda Linguagem Python Através de Projetos Reais
+116,Python Cookbook
+117,Interfaces Gráficas com Python + PyQt6
+118,Python para Ciência de Dados: Introdução à Análise de Dados
+119,Introdução à Visão Computacional em Python: Fernando Feltrin
+120,Blockchain e Criptomoedas em Python
+121,Python: guia básico para iniciantes
+122,Introdução à Linguagem Python
+123,Programação do Raspberry Pi com Python: Aprenda a Programar no Pequeno Computador Mais Popular do Mundo
+124,Aprenda Logica de Programação com Python: Desenvolva habilidades essenciais para qualquer desenvolvedor de software e prepare-se para criar suas próprias aplicações com a linguagem amigável Python.
+125,Fundamentos em Python: Guia completo para Iniciantes (Fundamentos em programação e computação)
+126,Aprenda Python Básico - Rápido e Fácil de entender
+127,Começando a programar em Python Para leigos
+128,Aprenda Python do Jeito Certo: Uma introdução muito simples ao incrível mundo dos computadores e da codificação
+129,Programação Orientada à Objetos Avançada em Python: Versão Definitiva
+130,PYTHON TOTAL Volume 4
+131,Introdução ao Python Para Engenharia Química
+132,"Domine o Excel ® (3 em 1): Excel - 70 Fórmulas Incríveis, Excel - 51 Macros incríveis e 51 Dicas e Truques Incríveis"
+133,Python e Django: Desenvolvimento web Moderno e ágil
+134,Python na Prática Vol. 3 (Python na Prática - Fernando Feltrin)
+135,Primeiros passos com Django
+136,50 CÓDIGOS PRONTOS FEITOS EM PYTHON : LIVRO EDIÇÃO PORTUGUÊS (Série Python Masterclass: Códigos Prontos e Passo a Passo 1)
+137,Data Science Para Programadores. Um Guia Completo Utilizando a Linguagem Python
+138,Jornada Python: uma jornada imersiva na aplicabilidade de uma das mais poderosas linguagens de programação do mundo
+139,Automatize Tarefas Maçantes com Python: Programação Prática Para Verdadeiros Iniciantes
+140,300 Exercícios Resolvidos e Comentados em Python
+141,Código limpo: habilidades práticas do Agile software
+142,"Aprenda Lógica de Programação e Algoritmos com Implementações em Portugol, Scratch, C, Java, C# e Python"
+143,Aplicações Avançadas de Visão Computacional: Da Teoria à Prática
+144,Séries temporais com Prophet: Análise e previsão de dados com Python
+145,Aplicativos Multiplataforma em Python
+146,"Django de A a Z: Crie aplicações web rápidas, seguras e escaláveis com Python"
+147,Introdução ao MongoDB
+148,A arte da estatística: Como aprender a partir de dados
+149,Python para Pentesters: Guia prático para criação das próprias ferramentas
+150,Python Para Todos: Explorando Dados com Python 3
+151,Mestre em Programação com Python: Uma Jornada Profunda e Transformadora para Iniciantes na Ciência da Computação
+152,Python e os Paradigmas da Programação
+153,SQL - Guia Prático: um Guia Para o uso de SQL
+154,CSS Grid Layout: Criando Layouts CSS Profissionais
+155,Econometria Financeira: um Curso em Séries Temporais Financeiras
+156,"PYTHON BÁSICO - Anotações, Exemplos, Exercícios e Projetos: Vários exercícios e projetos básicos do ""hello world"" até o ""for"" com resoluções comentadas (Python, do básico ao avançado! Livro 1)"
+157,Aprendendo Química com python
+158,Introdução À Algoritmia e Programação com Python
+159,Python descomplicado com o Chatgpt.
+160,Programação Orientada à Objetos AVANÇADA em Python: Fernando Feltrin
+161,"Informação, conhecimento, ação autônoma e big data: continuidade ou revolução?"
+162,Python do zero ao absoluto : Curso Completo de Linguagem de Programação Python
+163,Análise de Séries Temporais: Modelos Multivariados e Não Lineares (Volume 2)
+164,Aprenda mineração de dados: teoria e prática
+165,Programação Orientada à Objetos em Python: Do Básico ao Avançado
+166,Tratamento de Dados com Python + Pandas: Versão Estendida
+167,Modelos Matemáticos para Sistemas Logísticos e de Produção: Aplicações com MathProg e Python
+168,Fundamentos de Análise Numérica. Com Python 3 e R
+169,Introdução ao Desenvolvimento de Jogos em Python com PyGame
+170,Desenvolvimento web com Flask: Desenvolvendo aplicações web com Python
+171,Programação de redes com Python: Guia abrangente de programação e gerenciamento de redes com Python 3
+172,Programação Matemática: Otimização Linear e Não Linear
+173,Use a cabeça! Aprenda a programar: aprenda a programar
+174,Python na Prática Vol. 2: Aprenda Python Através de Exercícios Comentados (Python na Prática - Fernando Feltrin)
+175,"Aprenda Django 3 com Exemplos: Crie Aplicações web Profissionais em Python, Começando do Zero"
+176,Python para todos 2: Intermediário com 22 projetos e 140 vídeos
+177,Reconhecimento de Padrões: um Estudo Dirigido
+178,Chatbots para Telegram: Programe seus primeiros bots usando Python
+179,Curso Básico da Linguagem C
+180,Deixe seu código limpo e brilhante: Desmistificando Clean Code com Java e Python
+181,Desenvolvimento web com Flask: Desenvolvendo aplicações web com Python
+182,Python Data Science: Do básico ao intermediário
+183,Domínio de Python e Django: Construindo Aplicações Web
+184,Coletânea PYTHON TOTAL: Edição Redes Neurais Artificiais
+185,Programação Orientada a Objetos com Python
+186,Python Poderoso: Dominando a Linguagem
+187,Método de Volumes Finitos Aplicado à Condução de Calor: Uma abordagem com Python
+188,Consumindo a API do Zabbix com Python
+189,Introdução a Algoritmos e Programação com Python - Uma Abordagem Dirigida Por Testes
+190,Pandas Python: Data Wrangling para Ciência de Dados
+191,Programação Orientada a Objetos – Conceitos e técnicas
+192,Python Progressivo
+193,Algoritmos e Programação I: Python para Matemática (Notas de Aula)
+194,+100 Problemas com soluções e Projetos com Python: Exercícios do nível iniciante até o super avançado para exercitar sua logica de programação
+195,Flask de A a Z: Crie aplicações web mais completas e robustas em Python
+196,Aprenda a programar com Python: Descomplicando o desenvolvimento de software
+197,"A próxima onda: Inteligência artificial, poder e o maior dilema do século XXI"
+198,Python na Prática Vol. 2: Aprenda Python Através de Exercícios Comentados (Python na Prática - Fernando Feltrin)
+199,"Análise Exploratória de Dados com Python, Pandas e Numpy"
+200,Pipeline de Dados e ETL : Um Guia Prático para Engenheiros de Dados
+201,Desenvolvimento Avançado de Aplicativos com Python e KivyMD
+202,Introdução à programação em Python (Série Universitária)
+203,50 FUNÇÕES PANDAS COM EXEMPLOS PRÁTICOS (PYTHON) EDITION PORTUGUÊS (Série Python Masterclass: Códigos Prontos e Passo a Passo Livro 3)
+204,Visão Computacional em Python: Do básico às redes neurais artificiais: Versão Estendida
+205,Python Além da Teoria
+206,Álgebra Linear com Python: Aprenda na prática os principais conceitos (Cientista de dados - Analista Quant Livro 1)
+207,Tópicos de análise de dados Python
+208,Coletânea PYTHON TOTAL: Edição Exercícios Resolvidos e Comentados em Python
+209,Coletânea PYTHON TOTAL Volume 3
+210,Controladores Lógicos Programáveis: Sistemas Discretos
+211,Python para todos: Iniciante
+212,Fundamentos Algorítmicos Negociação Com Pythonseu
+213,Python para Todos - Apostila do curso: Aprenda a criar diversas aplicações
+214,Automação em Python: Aprenda em 2h
+215,"Python, ChatGPT e Django REST: Seu Guia para Dominar APIs Poderosas e Não Ficar Obsoleto: Desenvolva Habilidades Essenciais e Mantenha-se à Frente da Concorrência no Mundo da Programação"
+216,Processamento de linguagem natural com Python: Simplesmente em profundidade
+217,Domínio da Inteligência Artificial com Python: Do Básico ao Avançado
+218,Use a cabeça! Programação: programação
+219,Introdução à Orientação a Objetos com C++ e Python: Uma abordagem prática
+220,Documentação do PyGame
+221,Design de Microsserviços com Django: uma Visão Geral das Ferramentas e Práticas
+222,50 FUNÇÕES PANDAS COM EXEMPLOS PRÁTICOS (PYTHON) EDITION PORTUGUÊS (Série Python Masterclass: Códigos Prontos e Passo a Passo Livro 3)
+223,CRUD em Python
+224,CRUD em Python
+225,Design de Microsserviços com Django: uma Visão Geral das Ferramentas e Práticas
+226,MongoDB. Construa Novas Aplicações com Novas Tecnologias
+227,Guia Prático Python & Flask: Aprenda a criar aplicações web usando o mini framework mais usado na atualidade
+228,Inteligência artificial – aplicações e desafios
+229,Deep Learning em Python: Versão Estendida
+230,Guia Oficial Raspberry Pi Para Iniciantes: Como Utilizar O Seu Novo Computador
+231,Automação em Python: Aprenda em 2h
+232,Introdução às Expressões Regulares
+233,Arquitetura de software distribuído: Boas práticas para um mundo de microsserviços
+234,Python Para Universitários: Aprenda Programação Orientada a Objetos (POO) Passo a Passo
+235,Programação em Python. Fundamentos e Resolução de Problemas
+236,Domine Python em 2h
+237,360 Exercícios Resolvidos e Comentados em Python (Exercícios Resolvidos e Comentados em Python - Fernando Feltrin Livro 3)
+238,Refatoração: Aperfeiçoando o Design de Códigos Existentes
+239,Algoritmos e Lógica da Programação
+240,A Linguagem de Programação Go
+241,Guia Python Definitivo Para Iniciantes: Evolução e trabalho na área de Tecnologia
+242,O codificador limpo: um código de conduta para programadores profissionais
+243,Web Scraping com Python: Coletando Dados na Web Moderna
+244,Introdução a Programação com Python
+245,Python para todos: Iniciante
+246,FastAPI: Construa APIs em Python: Aprenda de uma vez por todas e sem enrolação (Programação para Iniciantes)
+247,O Zen do Python: Uma Introdução Suave à Programação
+248,Python em 100 Páginas: Aprenda os fundamentos de forma rápida e prática
+249,CRUD em Python: Versão Estendida
+250,Tópicos Especiais em Python: Volume 3 (Tópicos Especiais em Python - Fernando Feltrin)
+251,Utilizando a linguagem Python para Análises de dados com Chat GPT: Data Science
+252,Python - 20% que eu preciso saber para ter 80% de resultados
+253,Coletânea Python Bootcamp: (Exercícios em Python)
+254,Black Hat Python: Programação Python Para Hackers e Pentesters
+255,A História (Quase) Definitiva de Monty Python: Cinco britânicos e um americano que reinventaram o nonsense e viraram o mundo de ponta-cabeça
+256,A História (Quase) Definitiva de Monty Python: Cinco britânicos e um americano que reinventaram o nonsense e viraram o mundo de ponta-cabeça
+257,Modelagem Matemática de Doenças Infecciosas: com aplicação em Python para COVID-19
+258,Wild Lovers (San Diego Pythons Livro 2)
+259,COLETÂNEA PYTHON NA PRÁTICA: Fernando Feltrin
+260,"Aplicações Web com Python, Flet e Dash"
+261,Raspberry PI: guia do usuário
+262,Construindo Aplicações web com PHP e MySQL
+263,Python para todos 3: CSS + HTML
+264,Documentação do Python
+265,Introducao A Programacao Numerica Em Python
+266,Ensinando Programação em Python para Crianças: 5 Projetos Simples e Práticos!
+267,"Bata em 100 bibliotecas Python: série de aprendizagem de 1 hora, edição 2024"
+268,Programação funcional Para Leigos
+269,Algoritmos Genéticos
+270,Coletânea Python Best Sellers - Fernando Feltrin
+271,PYTHON TOTAL - Volume 2: Fernando Feltrin
+272,Python para Gestores: Um guia prático para programação no mundo dos negócios
+273,Deep Learning em Python: Versão Estendida
+274,Guia Oficial Raspberry Pi Para Iniciantes: Como Utilizar O Seu Novo Computador
+275,Computação Numérica: Métodos e Implementações
+276,Python. Algoritmia e Programação Web
+277,Estruturas de Dados e Algoritmos com JavaScript: Escreva um Código JavaScript Complexo e Eficaz Usando a Mais Recente ECMAScript
+278,"Introdução à Programação Científica: Trabalhando com MATLAB®, Scilab e Python"
+279,PUDIM PROJECT: Python Volume 02 - Funções Essenciais (Python PUDIM PROJECT Livro 2)
+280,Aprendendo Python: Um guia básico de programação
+281,Mergulhando No Python
+282,Python Rad (Rapid Application Development) - Aplicacao Para Web e Desktop
+283,PUDIM PROJECT: Python Volume 06 - Automatizando Postagens em Redes e Plataformas Sociais (Python PUDIM PROJECT Livro 6)
+284,Data smart: usando data science para transformar informação em insight
+285,Aprendizado Profundo Para Finanças
+286,Análise de dados Python para novatos: numpy/pandas/matplotlib/sklearn/keras
+287,Sistemas Orientados a Objetos: Teoria e Prática com UML e Java
+288,Sistemas Orientados a Objetos: Teoria e Prática com UML e Java
+289,PUDIM PROJECT: Python Volume 06 - Automatizando Postagens em Redes e Plataformas Sociais (Python PUDIM PROJECT Livro 6)
+290,Fundamentos da Programação Lógica e Funcional: o Princípio de Resolução e a Teoria de Reescrita
+291,Python Descomplicado: P
+292,Como usar o Chatgpt para programar em python
+293,Práticas de Python. Algoritmia e Programação
+294,Cálculo Diferencial e Integral de Funções de Uma Variável com Python
+295,"Análise preditiva Para Leigos: o poder de predizer quem vai clicar, comprar, mentir ou morrer"
+296,As Regras da Programação: Como criar códigos melhores
+297,Python De A A Z
+298,"Introdução à Programação Científica: Trabalhando com MATLAB®, Scilab e Python"
+299,Princípios de Ecologia Numérica: com exemplos em Python
+300,Aplicações Web com Python e Dash: Do Básico ao Avançado
+301,Trilhas Python: Programação multiparadigma e desenvolvimento Web com Flask
+302,COLETÂNEA Interfaces Gráficas com Python: Fernando Feltrin
+303,Redes bayesianas: aplicações em confiabilidade e no diagnóstico de perdas não técnicas
+304,"Apaixone-se pelo problema, não pela solução"
+305,Trilhas Python: Programação multiparadigma e desenvolvimento Web com Flask
+306,COLETÂNEA Interfaces Gráficas com Python: Fernando Feltrin
+307,INTRODUÇÃO À PROGRAMAÇÃO CIENTÍFICA COM PYTHON
+308,Introdução à Economia
+309,Ensine Seus Filhos a Programar: Um Guia Amigável aos Pais Para a Programação Python
+310,Python + AWS Lambda + AWS API Gateway: Crie um sistema backend completo Serverless em nuvem AWS.
+311,Redes bayesianas: aplicações em confiabilidade e no diagnóstico de perdas não técnicas
+312,Documentação do PyInstaller
+313,Manual Básico da Linguagem R: Introdução à análise de dados com a linguagem R e o RStudio para área da saúde
+314,Fundamentos da analise Tecnica: A Teoria de Dow
+315,Dicionário de Termos Técnicos de Informática - 3a. edição
+316,CONJUNTOS E LOGICA FUZZY
+317,Algoritmos Para Leigos
+318,Modelagem Matemática de Doenças Infecciosas - Com aplicação em Python para Covid-19
+319,Algoritmos e programação II com C# (Série Universitária)
+320,Plasticidade: teoria e exemplos na engenharia
+321,Plasticidade: teoria e exemplos na engenharia
+322,Coletânea PYTHON NA PRÁTICA Vol. 3: Aprenda Python Através de Exercícios Resolvidos e Comentados
+323,Aprenda o básico de Python: Direto ao ponto
+324,PUDIM PROJECT: Python Volume 01 - Funções Essenciais (Python PUDIM PROJECT Livro 1)
+325,Python Em 30 Dias
+326,Curso Básico de Python
+327,Programação com Arduino: Começando com Sketches
+328,Controle e Modelagem Fuzzy
+329,"Mudanças Cerebrais Devido a Psicoterapia: Alterações nos Padrões Energéticos Cerebrais, Quantificados por Eletroencefalografia Quantitativa (qEEG), ... Psicoterapêutico Cognitivo Comportamental"
+330,PUDIM PROJECT: Python Volume 04 - Funções para Automatização (Python PUDIM PROJECT Livro 4)
+331,PUDIM PROJECT: Python Volume 03 - Automatizando Postagens em Redes e Plataformas Sociais (Python PUDIM PROJECT Livro 3)
+332,"R para Data Science: importe, arrume, transforme, visualize e modele dados"
+333,Robot framework: Automação versátil e consistente para testes
+334,O Mínimo que você precisa saber sobre Banco de Dados e SQL: Uma abordagem prática e muito simples – para verdadeiros iniciantes (produtividadeprogramada.com.br)
+335,Aprenda Python em 2h: Com Projeto Backend Completo Grátis
+336,Tópicos Avançados em Python - Fernando Feltrin
+337,PUDIM PROJECT: Python Volume 05 - Automatizando Postagens em Redes e Plataformas Sociais (Python PUDIM PROJECT Livro 5)
+338,Aprendizado profundo Para Leigos
+339,Coletânea Python Na Prática - 3 Volumes
+340,Código De Processo Civil Comentado
+341,Análise Estatística da Decisão
+342,Ebook: Python para Leigos - Um Guia Completo para Iniciantes
+343,Python para Pessoas com TDAH: Curso Passo a Passo de Programação
+344,Cálculo Numérico
+345,Introdução à Economia: com aplicações em Python
+346,Dicionário de Termos Técnicos de Informática - 3a. edição
+347,USE PYTHON NO POWER BI: Aumente sua produtividade com uso da linguagem Python
+348,IoT com MicroPython e NodeMCU
+349,Programação Definitiva De Redes Neurais Com Python
+350,Análise de Dados Financeiros e Econômicos com o R
+351,Desvendando o MongoDB. Do Mongo Shell ao Java Driver
+352,Curso De Programação Em Python Para Iniciantes
+353,ALGORITMOS COM PYTHON PARA INICIANTES
+354,"Bíblia do MageAI, integração de dados e software ETL Pipelines integrados ao controle de versão Git"
+355,Python na Prática da Inteligência Artificial: Do Zero às Aplicações Avançadas
+356,Coletânea PYTHON TOTAL: Edição Tópicos Avançados / Especiais em Python
+357,Introdução ao Machine Learning: Com Python e Scikit-Learn
+358,Como usar o Chatgpt para programar: Python
+359,Python: 301 Perguntas e Respostas de Especialistas
+360,Python do Básico ao Avançado - Fernando Feltrin
+361,Arrays com Python + Numpy - Fernando Feltrin
+362,Computação Evolucionária: Aplique os algoritmos genéticos com Python e Numpy
+363,Coletânea Deep Learning em Python: Do básico ao avançado
+364,Criatividade
+365,Desenvolvimento Back-end com Python e JavaScript
+366,Redes Neurais Artificiais: Fernando Feltrin
+367,Código Limpo
+368,Python Essencial Da Ciência de Dados à Automação
+369,Desenvolvimento Back-end com Python e JavaScript
+370,"Internet das Coisas com ESP8266, Arduino e Raspberry Pi 2ª edição: Atualizado para ESP32"
+371,Matemática para Computação: Fundamentos e Aplicações
+372,Introdução à Programação usando Python
+373,Integração numérica: Série Cálculo Numérico para todos
+374,Introdução à visão computacional usando Matlab
+375,Programação Python: O guia definitivo para iniciantes e desenvolvedores experientes
+376,Python Resumido
+377,Programação Descomplicada: As principais linguagens de programaçao e para que servem
+378,Introdução aos Métodos Estatísticos Para Economia e Finanças
+379,"Coletânea Tópicos Especiais em Python - Fernando Feltrin: 5 livros, 600+ páginas de conteúdo"
+380,"Coletânea PYTHON AO EXTREMO: 6 livros, 1000+ páginas"
+381,Análise de Séries Temporais em R: Curso Introdutório
+382,"PYTHON DESVENDADO: HISTÓRIA, EVOLUÇÃO E DOMÍNIO"
+383,Docker: Conceito e Prática
+384,O que é Linux
+385,Estatística e Ciência de Dados
+386,Python na Prática da Inteligência Artificial: Do Zero às Aplicações Avançadas
+387,Seja um Programador Foda!: Manual para uma carreira de sucesso
+388,Começando a programar em C Para leigos
+389,"Seu primeiro projeto de manutenção preditiva: ""Usando Machine learning para prever falhas em máquinas"""
+390,Não me faça pensar: atualizado
+391,Decodificando Analytics: Excel com Python e Além
+392,Introdução à Programação com Python: Do Zero à Automação: Um guia passo-a-passo para iniciantes
+393,Scikit-Learn para Data Science: Uma maneira fácil e rápida para os iniciantes em IA
+394,Aprendendo Java. Por Meio de Conceitos e Exemplos
+395,Tecnologia da Informação para Concursos: Desenvolvimento de Software
+396,Análise Preditiva e o Consumidor Litigante: a Inteligência Artificial Pode Prever o Litígio de Consumo? (Edição 1)
+397,Mundo Python : Guia Python Para Programadores Iniciantes c/ Projeto Bônus
+398,NEGÓCIOS DIGITAIS: O PRÓXIMO NÍVEL DA INTELIGÊNCIA
+399,Documentação do Cython
+400,Desenvolvimento de sistemas para iniciantes
+401,Gramática
+402,"Para Que Serve Tudo Isso?. A Filosofia E O Sentido Da Vida, De Platão A Monty Python"
+403,Aprendendo Lógica de Programação do Zero: Um Guia Essencial para Iniciantes (Programação Descomplicada: Domine as Linguagens do Futuro de um jeito rápido e fácil)
+404,Introdução ao Pentest
+405,Coletânea Tópicos Especiais em Python (4 livros)
+406,Machine Learning: Introdução à classificação
+407,Seja um Programador Foda!: Manual para uma carreira de sucesso
+408,Desenvolvimento de sistemas para iniciantes
+409,Guia de Referência Rápida da linguagem de programação Python
+410,"Automação de Testes na Prática com Python, Selenium e Behave."
+411,Cálculo Financeiro das Tesourarias: Bancos e Empresas
+412,Roteiro de Aprendizagem: Lógica de Programação e Algoritmos: Python como primeira linguagem
+413,Guia para se Tornar um Analista de Dados: A análise de dados é uma das profissões mais procuradas e gratificantes da era digital. Venha fazer parte desse seleto grupo de pessoas.
+414,Manual de Análise Técnica: Essência e estratégias avançadas: Tudo o que um investidor precisa saber para prosperar na bolsa de valores até em tempos de crise
+415,As Habilidades Necessárias para ser um Cientista de Dados: compreenda os fundamentos da ciência de dados.
+416,"MySQL Essencial: Do básico ao avançado - um curso prático (Aprendendo Programação e Desenvolvimento Web com Javascript, C# e Bancos de Dados)"
+417,Manual de Análise Técnica: Essência e estratégias avançadas: Tudo o que um investidor precisa saber para prosperar na bolsa de valores até em tempos de crise
+418,Algoritmos. Programação Para Iniciantes
+419,Estatística
+420,Aprendendo Julia - Introdução à linguagem de programação Julia
+421,Computação em Nuvem
+422,"MySQL Essencial: Do básico ao avançado - um curso prático (Aprendendo Programação e Desenvolvimento Web com Javascript, C# e Bancos de Dados)"
+423,Os Doze Macacos
+424,Ganhando Dinheiro com Opções: Conheça as Estratégias Vencedoras Para ter Sucesso em Operações com Derivativos na Bolsa de Valores
+425,HTML e CSS: projete e construa websites
+426,Documentação do RPyC
+427,Conceitos de Linguagens de Programação
+428,MINERAÇÃO DE DADOS EDUCACIONAIS : Primeiros Passos com Python
+429,Crie microsaas com python: Transforme suas habilidades de programação em sucesso profissional: Aprenda a criar software incrível com Python
+430,Python: Perguntas e respostas de múltipla escolha
+431,Python Machine Learning
+432,Minha Lady Jane
+433,Pentest em Redes sem fio
+434,Metodos Numericos Computacionais
+435,MicroPython - Aprenda a programar microcontroladores
+436,Auto se conheça
+437,Betting Python - Código Para Prognósticos
+438,Termodinâmica na Engenharia Química
+439,Fácil Aprendizagem Python 3: Passo a passo para levar os iniciantes a aprender Python melhor e rápido
+440,Pythonverso: Aprendendo Python com jogos e desafios
+441,Introdução ao Pentest
+442,Use a cabeça! Desenvolvendo para Android: desenvolvendo para Android
+443,Web Scraping com Python: Domine a coleta de dados na web para análise e insights
+444,Fundamentos da computação em nuvem (Série Universitária)
+445,Criando Projetos com Arduino Para a Internet das Coisas: Experimentos com Aplicações do Mundo Real – Um Guia Para o Entusiasta de Arduino ávido por Aprender
+446,Introducao A Programacao Pensamento Computacional
+447,O Fantasma - volume 10: O fantasma aterroriza os terroristas!
+448,Não Me Faça Pensar
+449,"Para Que Serve Tudo Isso?. A Filosofia E O Sentido Da Vida, De Platão A Monty Python"
+450,Computação Científica usando Python
+451,Put some farofa
+452,Monty Python. Uma Biografia Escrita por Monty Python
+453,Botando a Mão na Massa: Guia prático para aprender Python
+454,Redes neurais artificiais: Fundamentos e Aplicações
+455,Iniciando em python
+456,Análise Técnica de Ações - Padrões Gráficos
+457,Reconhecimento de gestos manuais com Python
+458,Ciência de Dados e Aprendizado de Máquina: Uma abordagem prática as redes neurais artificiais
+459,Analítica de dados com Hadoop: Uma introdução para cientistas de dados
+460,ChatGPT e Python Em Ação Para Iniciantes
+461,"Desenvolvimento de Jogos 2D com Unity: O Guia do Iniciante (Jogos, python e IA)"
+462,151 Desafios Pythonicos: Aprenda Python Através de Exercícios
+463,"Coletânea Tópicos Especiais em Python: 3 Livros, 400+ Páginas"
+464,Introdução à Programação e aos Algoritmos
+465,Python Bootcamp (Exercícios Comentados): Vol. 1
+466,Métodos Numéricos Aplicados: Rotinas em C++
+467,Introdução a Lógica de Programação
+468,Sistemas de Banco de Dados
+469,Lógica de Programação com Python: Aprenda a Programar do Zero!
+470,"COLETÂNEA Tópicos Especiais em Python: 2 livros, 280+ páginas"
+471,Use a cabeça! Análise de dados
+472,Raspberry PI descomplicado
+473,Inteligência Artificial Aplicada: Usando Python e TensorFlow
+474,Fundamentos De Programação Python
+475,"COLETÂNEA PYTHON NA PRÁTICA: 2 livros, 290+ páginas, 175+ exercícios"
+476,Introdução à Programação: Para Iniciantes e Agências Web Modernas
+477,"Inteligência Artificial em Javascript (Aprendendo Programação e Desenvolvimento Web com Javascript, C# e Bancos de Dados)"
+478,"Aprenda tudo sobre JavaScript , Python , Java , C# e SQL"
+479,Visão Computacional em Python: Do básico às redes neurais artificiais
+480,JavaScript do ZERO à Programação Orientada a Objetos
+481,As aventuras de Patuncio: O programador Full Quack
+482,Aprender a programar em Python: Aprenda a linguagem de programação python do zero.
+483,Gastaria Tudo Com Pizza
+484,101 Exercícios Comentados em Python: F. Lima
+485,Introdução à Programação com Python
+486,Sql Avancado e Teoria Relacional - 1
+487,Computação Distribuída em Python
+488,Algoritmos
+489,"O Livro do Programador: A bússola definitiva para você programar em qualquer linguagem (Aprendendo Programação e Desenvolvimento Web com Javascript, C# e Bancos de Dados)"
+490,Programando em Python do Basico `A Web
+491,Inteligência Artificial
+492,Tópicos Especiais em Python - Vol. 5 (Tópicos Especiais em Python - Fernando Feltrin Livro 1)
+493,Arrays com Python + Numpy (Versão Estendida): 75+ Exercícios Resolvidos e Comentados
+494,Ciência dos Dados nas Organizações. Aplicações em Python
+495,Redes Neurais Artificiais Aplicadas à Medicina: Versão Estendida - 400+ páginas
+496,Computação em Nuvem: O Que Você Realmente Precisa Saber
+497,Computação em Nuvem: O Que Você Realmente Precisa Saber
+498,Inteligência Artificial e Machine Learning: Teoria e Aplicações
+499,"TRIBOLOGIA, LUBRIFICAÇÃO E MANCAIS DE DESLIZAMENTO - 2ª EDIÇÃO REVISTA E AMPLIADA"
+500,Aprendizado de máquina Para Leigos
+501,"Administracao De Redes Com Scripts: Bash Script, Python E Vbscript"
+502,Aprendendo A Programar
+503,2h para Aprender Python : Conteúdos e Dicas para Iniciantes em Python
+504,BOT Trade para Criptomoedas: Crie seu próprio Robô de Criptomoedas
+505,Aprenda tudo sobre python
+506,Reencarnei como uma jujuba: e outros textos igualmente degradantes
+507,PYTHON_PODCAST_BR
+508,História da Programação: primeira linguagem de programação e a sua evolução
+509,Framework Django para iniciantes
+510,Práticas Python para Principiantes: Livro Exclusivo para Aspirantes
+511,"Da Revolução do Stand-up à TV Pirata: Comédia e Sociedade no Brasil, Estados Unidos e Inglaterra"
+512,Vagabundos no Espaço - Volume1
+513,Grande sertão: veredas
+514,O avesso da pele – Vencedor Jabuti 2021
+515,Teoria computacional de grafos: Os algoritmos
+516,Python para Iniciantes: Uma jornada descomplicada na programação
+517,Tópicos Especiais em Python Volume 4: Boas Práticas de Programação (Tópicos Especiais em Python - Fernando Feltrin Livro 2)
+518,Guia Essencial para Iniciantes em Programação: Descubra quais as Linguagens Mais Populares para você aprender
+519,Python Expresso: Aprendizado Rápido e Eficiente
+520,Python para iniciantes
+521,O BÁSICO DE APRENDER A CODIFICAÇÃO PYTHON PARA ADOLESCENTES
+522,Tópicos Especiais em Python - Fernando Feltrin
+523,Pequena coreografia do adeus
+524,O Pequeno Príncipe (Original): Tradução original com aquarelas do autor
+525,Zeros de funções: Série Cálculo Numérico para todos
+526,Algoritmos de Programação: Exemplos Implementados - Revisado
+527,informática - Série Provas e Concursos: 1507 Questões Comentadas
+528,"Pesquisa Operacional: 170 Aplicações em Estratégia, Finanças, Logística, Produção, Marketing e Vendas"
+529,Python para Iniciantes: Guia de Introdução à Lógica de Programação
+530,Python Em Poucas Palavras
+531,O Livro da Selva
+532,Derivativos e Risco de Mercado
+533,O Morro dos Ventos Uivantes - Edição de Luxo Almofadada: Acompanha marcador de páginas
+534,Irmãos Karamazov - Edição de Luxo Almofadada: Acompanha marcador de páginas
+535,Memória e esquecimento na internet (Pautas em Direito)
+536,Uma introdução à Internet das Coisas e Sistemas Embarcados utilizando programação por blocos com BIPES e ESP8266 / ESP32
+537,Coleção Os Melhores Filmes de Todos os Tempos (Completa - 8 volumes)
+538,Expressões Regulares Cookbook
+539,AS MELHORES BIBLIOTECAS PYTHON: Torne-se um Especialista na Linguagem mais Popular do Mundo!
+540,Programação Orientada à Objetos em Python: Do Básico ao Avançado
+541,Python Fácil: Guia Python Para Iniciantes
+542,Técnicas de invasão de sistemas pentest: práticas detalhadas de hacker ético para os novos profissionais do mercado
+543,Programação Python: Para principiantes
+544,Documentação do Jinja: Documentação do Jinja completa em Português
+545,Python para Iniciantes: Aprenda a Programar de Forma Simples e Divertida
+546,"Coletânea Tópicos Especiais em Python: 3 Livros, 400+ Páginas"
+547,O Reino De Python
+548,Método de Volumes Finitos Aplicado à Condução de Calor
+549,Aprendendo a programar com Python
+550,Python - do Inicio ao Desenvolvimento Basico de Jogos
+551,Um Caminho para a Engenharia de Dados
+552,GUIA PRÁTICO PARA APRENDER A PROGRAMAR EM PYTHON: PROGRAMAR AVANÇADO EM PYTHON
+553,Sistema de Correcção Automática - Python OMR
+554,Uma introdução prática ao processamento de sinais digitais com Python
+555,Python - Primeiro passo no data science
+556,Guia Mangá álgebra Linear
+557,APRENDENDO LÓGICA DE PROGRAMAÇÃO (Portugol)
+558,Histórias apócrifas
+559,Algoritmos e Estruturas de Dados
+560,Estatística básica
+561,Atos Assombrosos - A Trilogia De Eddie Dickens
+562,Python Descomplicado: Da Programação Iniciante ao Avançado
+563,Meu Primeiro Livro de Programação
+564,Machine Learning E Python: Um Guia Pr?tico ? Ci?ncia De Dados
+565,A Espetacular e Incrível Vida de Douglas Adams
+566,Eleve o nível da Extração de Dados(OCR) a um Novo Patamar: Descubra os Segredos com Google Vision API e ChatGPT
+567,Métodos Numéricos: Ponto fixo com MATLAB e Python
+568,Machine Learning no Power BI: Use o aprendizado de máquina para automatizar seu Power BI
+569,Introdução À Programação Com Python. Algoritmos E Lógica De Programação Para Iniciantes
+570,Como Funciona Um Sistema De Recomendação
+571,Computação em nuvem - cloud computing: tecnologias e estratégias
+572,"Aprenda Python em 2h, com Mini Curso Python Gratuito"
+573,250 Exercícios de Múltipla Escolha Sobre Python
+574,Aprendizado De Máquina Python 2 Livro Em 1
+575,Tópicos Especiais em Python - Volume 2 (Tópicos Especiais em Python - Fernando Feltrin Livro 4)
+576,PUDIM PROJECT: Python Volume 11 - Automatizando Postagens em Redes e Plataformas Sociais (Python PUDIM PROJECT)
+577,Análise técnica dos mercados financeiros
+578,"Inteligência Artificial: Robôs, Aplicativos e Aprendizado de Máquina em Poucas Palavras"
+579,Gestão da Segurança da Informação em Sistemas-de-Sistemas com RDFLib
+580,PUDIM PROJECT: Python Volume 09 - Automatizando Postagens em Redes e Plataformas Sociais (Python PUDIM PROJECT Livro 7)
+581,PUDIM PROJECT: Python Volume 08 - Automatizando Postagens em Redes e Plataformas Sociais (Python PUDIM PROJECT Livro 8)
+582,Aprenda a programar em 10 lições fáceis
+583,Codificação Python c++
+584,Inteligência Artificial Bayesiana
+585,Python Bootcamp (Exercícios em Python): Vol. 2
+586,Python Bootcamp (Exercícios em Python): Vol. 3
+587,50+ Exercícios Resolvidos e Comentados em Python: Nível Especialista (Exercícios Resolvidos e Comentados em Python - Fernando Feltrin Livro 2)
+588,Framework Django para Iniciantes: Desenvolvimento ágil de páginas web modernas com Python + HTML + CSS + Javascript
+589,TECNOLOGIA DA INFORMAÇÃO: O mais completo para todos os concursos.
+590,Programação em Python 3
+591,Nagios. Monitorando de Redes Corporativas - 1
+592,PUDIM PROJECT: Python Volume 07 - Automatizando Postagens em Redes e Plataformas Sociais (Python PUDIM PROJECT Livro 9)
+593,Construa Uma Estrutura Web Frontend (do Zero)
+594,Python para programadores africanos principiantes
+595,Python Descomplicado
+596,O Plâncton como Bioindicador Ambiental – Guia Prático Ilustrado
+597,2h de Python
+598,"Guia do Maker Para o Apocalipse Zumbi: Defenda sua Base com Circuitos Simples, Arduino e Raspberry Pi"
+599,PUDIM PROJECT: Python Volume 10 - Automatizando Postagens em Redes e Plataformas Sociais (Python PUDIM PROJECT)
+600,Concepção de um dispositivo de análise térmica simples e diferencial: Utilização de ferramentas Arduino® e Python®
+601,Extracção de padrões de utilidade utilizando Python
+602,GUIA PRÁTICO PARA APRENDER A PROGRAMAR EM PYTHON: APRENDER A PROGRAMAR
+603,Python Infantilizado: Conceitos Iniciais em exemplos bobos.
+604,Programação Orientada à Objetos em Python: Do Básico ao Avançado
+605,TECNOLOGIA DA INFORMAÇÃO: O mais completo para todos os concursos.
+606,Métodos Numéricos: Ponto Fixo (Matlab e Pyton)
+607,Drones e Aerofotogrametria: Uma Questão de Atitude e de Matemática: Correção Geométrica no Ângulo Yaw
+608,"Introducao a Programacao Web Para Bioinformatica. Html, Css, Php & Javascript"
+609,Porque Não sou Cristão
+610,Controle da qualidade handbook - vol.1 - conceitos
+611,Dados Demais!
+612,Explorando Além dos Gráficos: Recursos Avançados e Truques no Power B (Power BI além dos gráficos Livro 1)
+613,"Integrando Flash com Perl e Python - Versoes Mx 2004, Mx e 5.0 - 1"
+614,Primeiros Passos com Web2py: Desenvolvimento Agil para Web
+615,"Inteligência Artificial: A Breve História da Aprendizagem Profunda, Algoritmos, Processamento de Linguagem Natural, Redes Neurais Artificiais e Ferramentas como ChatGPT, Dall-E e Mais"
+616,Python E Django - Desenvolvimento Agil De Aplicacoes Web
+617,MANUAL DO FREELANCER: Consiga seu primeiro cliente e ganhe uma renda extra
+618,Sistema de Recomendação de Livros Online Utilizando Filtragem Colaborativa: Aplicação da aprendizagem mecânica usando Python
+619,Monty Python - o Sentido da Vida - sem CD
+620,Sistemas Lineares: Série Cálculo Numérico para todos
+621,As fantásticas fábulas do magnífico Terry Jones
+622,"Cálculo No Mercado Financeiro: Conceitos, Ferramentas E Exercícios"
+623,Documentação do Twisted
+624,Uma fuinha sobrenatural se instalou no meu cérebro: e outros textos igualmente imbecis
+625,Geek Love: Todos nós temos um lado freakshow
+626,C#: Como Programar
+627,Coding for Security : Guia Completo para Desenvolvimento Seguro
+628,DESPERTE O PROFÉTICO QUE HÁ EM VOCÊ: Como operar biblicamente no profético e desmascarar o espírito Python
+629,UNIVERSO DA PROGRAMAÇÃO: Guia Essencial de termos e conceitos
+630,Apostila Python: Porta de entrada
+631,Apostila Python: Porta de entrada
+632,Know python in Portuguese
+633,Noções básicas de Python
+634,Machine Learning: metodologia de mineração automatizada com dados das redes sociais e processamento de linguagem natural
+635,Go em Ação
+636,Python Descomplicado
+637,As fantásticas fábulas do magnífico Terry Jones
+638,Python para Iniciantes: Um Guia Prático para Aprender a Programar
+639,Documentação do PyTest
+640,Explicando Django 1.10
+641,Aprenda a Programar
+642,"Administracao De Redes Com Scripts. Bash Script, Python E Vbscript"
+643,Aprendizagem profunda prática com programação Python
+644,Plone 4: administrando servidores Plone 4.x na prática
+645,Por Que Não Sou Cristão
+646,Guia como codificar em Minecraft
+647,Blockchain com Python Guia básico: Python aplicado ao blockchain em nível básico
+648,Mineração de Dados da Web Social
+649,DOMINE O TensorFlow: Aprenda a trabalhar na melhor ferramenta de inteligência artificial do mercado
+650,Estrutura de Dados e Técnicas de Programação
+651,Aprendizagem Da Máquina de Programação Em Python: Uma introdução aos modelos de aprendizagem automática - supervisionada
+652,Expressões Regulares. Uma Abordagem Divertida
+653,Aprendendo Julia - Introdução à DataFrames e Ciência de Dados em Julia
+654,PYTHON GAMES
+655,Guia abrangente para o empenamento dinâmico do tempo em Python
+656,Aprendizado de Máquina
+657,LATEX para cientistas
+658,Gestión de tesorería con Python
+659,Curso Básico para se Tornar um Programador
+660,A Arte da Programação:: Desafios e Conquistas de Levike
+661,Aum Coloração Em Bloco Para Gráficos Especiais Com Codificação Python: Vol 2
+662,Simplificando Algoritmos
+663,Programação Python: Complexo é Simples
+664,Cartografia Com Python: Aplicações NAS Ciências Agrárias E Geociências
+665,Rastreamento celular convectivo através da Visão Computadorizada baseada no Aprendizado Profundo: Algoritmo baseado em Python para identificação e seguimento de células convectivas
+666,Python Descomplicado: O caminho do Autodidata
+667,Inteligência Artificial com R e Python para Iniciantes: Uma Introdução à Análise Estatística e Machine Learning
+668,Computação em nuvem para concursos - Questões comentadas e teoria
+669,23 Perguntas sobre Aprendizado de Máquina: Regras Práticas para o Desenvolvimento de Aplicações
+670,"Padronização da Colheita de Semên em Três Espécies de Serpentes: (Epicrates crassus, Python regius e Crotalus durissus terrificus)"
+671,Programando o Raspberry PI
+672,Raspberry PI. Manual do Usuário
+673,Programação à Caminho: Aprenda os conceitos básicos e escreva seu primeiro código.
+674,UNIVERSO DA PROGRAMAÇÃO: Guia essencial de termos e conceitos
+675,Curso Intensivo de Python: Uma Introdução Prática e Baseada em Projetos à Programação
+676,Aprendendo Pentest com Python: Utilize Scripts Python Para Executar Pentests Eficazes e Eficientes
+677,Deteção de idade e género com base na aprendizagem profunda
+678,Computational Thinking : Unlocking the Power of Problem Solving
+679,Deteção de imagens falsas utilizando algoritmos de aprendizagem automática
+680,Labirinto: Trinta anos sem perder a magia
+681,Aprenda a Programar com Minecraft: Transforme seu Mundo com o Poder do Python
+682,Computação Em Nuvem: Solução de armazenamento de dados
+683,PYTHON TOTAL Volume 5
+684,PYTHON TOTAL: Deep Learning e Visão Computacional
+685,"Míster Mundo: Jorge Jesus, o Flamengo e o incrível ano de 2019"
+686,Geração de citações aleatórias por categoria
+687,Humanos: Una breve historia de cómo la hemos pifiado
+688,Dominando Python
+689,Data science do zero: primeiras regras com o Python
+690,Python Para Data Science
+691,Python para começar
+692,Python com Excel: Automação e Análise de Dados
+693,Desenhando com Turtle Graphics – Python
+694,Use a cabeça! Programação JavaScript: programação JavaScript
+695,Desenhando com Turtle Graphics – Python
+696,Use a cabeça! Programação JavaScript: programação JavaScript
+697,Python Primer: um guia para principiantes sobre os fundamentos da programação
+698,Programação Python
+699,Python: Uma Introdução Simples
+700,IMPLEMENTANDO UM PERCEPTRON NO PYTHON
+701,Python para IOT: Programação Prática Python para IOT
+702,Manual de Introdução à Programação Python
+703,ALGORITMOS E LÓGICA DE PROGRAMAÇÃO COM PYTHON
+704,PROGRAMAÇÃO PYTHON: APRENDER RAPIDAMENTE
+705,Aprendendo Python
+706,Conceitos de programação Python: Para principiantes e estudantes
+707,Exemplos de utilização de Python para criar Geo-apps
+708,Linguagens de Programação: Princípios e Paradigmas
+709,"Python: Pygame, Zope, Trac, Sintaxe e semântica de Python, Guido van Rossum, CPython, Blender Publisher, Django, WxPython, PyQT, PyGTK, Stoq"
+710,FUNDAMENTOS DE DEEP LEARNING: Um Guia Essencial para Estudantes e Profissionais
+711,Algoritmos e Logica de Programacao com Python
+712,Processamento de imagens: Edição de construção do ambiente Python/OpenCV
+713,Um algoritmo Python para a criação de dicionários em línguas africanas: Desenvolvimento de ferramentas HLT para as línguas africanas utilizando software de código aberto
+714,O Oráculo De Delfos
+715,Programação Python: Melhor desenvolvimento de PHP com o Laravel Framework e o Eloquent
+716,Introducao A Programacao Com Python [Paperback] ROJAS E KOSTIN
+717,Algoritmos - Teoria e Prática
+718,Livro de Tarefas de Segurança Cibernética: Protecção de dados utilizando a linguagem de programação Python
+719,Gastaria Tudo com Pizza - Edição com Autógrafo
+720,CONVERSÃO ÁUDIO/TEXTO PARA LINGUAGEM GESTUAL: ABORDAGEM PYTHON
+721,Sistema de apoio à decisão: Sistema de apoio à decisão com Python
+722,INTRODUCAO A COMPUTACAO USANDO PYTHON - UM FOCO NO
+723,Implementação do Python na Previsão da Estrutura Física e Microfísica
+724,"Software livre: Python, Git, KDE Software Compilation 4, Projeto Harbour, Blender, História do software livre, NetHack, Copyleft, LaTeX"
+725,"Conteúdo livre: Enciclopédias livres, Jogos em Código aberto, Licenças de conteúdo livre, Software livre, Python, Git"
+726,"Linguagens interpretadas: Python, Linotte, Euphoria, Ruby, VBScript, Perl, AppleScript, Lua, Batch, AWK, Shell script, MIRC script, Logic Basic"
+727,"Compiladores e interpretadores livres: Python, Free Pascal, PHP, Perl, Lua, AWK, GNU Compiler Collection, Cygwin, OCaml, Boo, Pawn, QB64"
+728,"Linguagens de programação orientadas a objetos: C++, Python, Java, Ruby, C♯, Eiffel, Scala, Ada, Embarcadero Delphi, Smalltalk, Object Pascal"
+729,"Software por licença: Licenças de Software, Software livre, Python, Git, KDE Software Compilation 4, Projeto Harbour, Blender"
+730,"Humoristas do Reino Unido: Humoristas da Inglaterra, Monty Python, Graham Chapman, John Cleese, Hugh Laurie, Michael Palin, Terry Gilliam"
+731,"Linguagens de script: Python, Euphoria, JavaScript, Ruby, VBScript, PHP, Perl, AppleScript, Lua, Batch, AWK, ActionScript, Shell script"
+732,"Humor: Desciclopédia, Piada, Monty Python, English As She Is Spoke, La Frikipedia, Trote telefônico, Cartoon, Partido político zuado, Paródia"
+733,Reconhecimento de gestos da mão utilizando aprendizagem automática em Python
+734,Análise de dados
+735,Introdução à ciência dos dados
+736,Chuvas Intensas e Marés Crescentes em Moçambique: Desafios e Estratégias Diante do Aumento do Nível do Mar
+737,"Compiladores e interpretadores livres: Python, Free Pascal, PHP, Perl, Lua, AWK, GNU Compiler Collection, Cygwin, OCaml, Boo, Pawn, QB64"
+738,"Linguagens de programação orientadas a objetos: C++, Python, Java, Ruby, C♯, Eiffel, Scala, Ada, Embarcadero Delphi, Smalltalk, Object Pascal"
+739,"Software por licença: Licenças de Software, Software livre, Python, Git, KDE Software Compilation 4, Projeto Harbour, Blender"
+740,"Humoristas do Reino Unido: Humoristas da Inglaterra, Monty Python, Graham Chapman, John Cleese, Hugh Laurie, Michael Palin, Terry Gilliam"
+741,"Linguagens de script: Python, Euphoria, JavaScript, Ruby, VBScript, PHP, Perl, AppleScript, Lua, Batch, AWK, ActionScript, Shell script"
+742,"Humor: Desciclopédia, Piada, Monty Python, English As She Is Spoke, La Frikipedia, Trote telefônico, Cartoon, Partido político zuado, Paródia"
+743,Reconhecimento de gestos da mão utilizando aprendizagem automática em Python
+744,Análise de dados
+745,Introdução à ciência dos dados
+746,Chuvas Intensas e Marés Crescentes em Moçambique: Desafios e Estratégias Diante do Aumento do Nível do Mar
+747,"Compiladores e interpretadores livres: Python, Free Pascal, PHP, Perl, Lua, AWK, GNU Compiler Collection, Cygwin, OCaml, Boo, Pawn, QB64"
+748,"Linguagens de programação orientadas a objetos: C++, Python, Java, Ruby, C♯, Eiffel, Scala, Ada, Embarcadero Delphi, Smalltalk, Object Pascal"
+749,"Software por licença: Licenças de Software, Software livre, Python, Git, KDE Software Compilation 4, Projeto Harbour, Blender"
+750,"Humoristas do Reino Unido: Humoristas da Inglaterra, Monty Python, Graham Chapman, John Cleese, Hugh Laurie, Michael Palin, Terry Gilliam"
+751,"Linguagens de script: Python, Euphoria, JavaScript, Ruby, VBScript, PHP, Perl, AppleScript, Lua, Batch, AWK, ActionScript, Shell script"
+752,"Humor: Desciclopédia, Piada, Monty Python, English As She Is Spoke, La Frikipedia, Trote telefônico, Cartoon, Partido político zuado, Paródia"
+753,Reconhecimento de gestos da mão utilizando aprendizagem automática em Python
+754,Análise de dados
+755,Introdução à ciência dos dados
+756,Chuvas Intensas e Marés Crescentes em Moçambique: Desafios e Estratégias Diante do Aumento do Nível do Mar
+757,"Compiladores e interpretadores livres: Python, Free Pascal, PHP, Perl, Lua, AWK, GNU Compiler Collection, Cygwin, OCaml, Boo, Pawn, QB64"
+758,"Linguagens de programação orientadas a objetos: C++, Python, Java, Ruby, C♯, Eiffel, Scala, Ada, Embarcadero Delphi, Smalltalk, Object Pascal"
+759,"Software por licença: Licenças de Software, Software livre, Python, Git, KDE Software Compilation 4, Projeto Harbour, Blender"
+760,"Humoristas do Reino Unido: Humoristas da Inglaterra, Monty Python, Graham Chapman, John Cleese, Hugh Laurie, Michael Palin, Terry Gilliam"
+761,"Linguagens de script: Python, Euphoria, JavaScript, Ruby, VBScript, PHP, Perl, AppleScript, Lua, Batch, AWK, ActionScript, Shell script"
+762,"Humor: Desciclopédia, Piada, Monty Python, English As She Is Spoke, La Frikipedia, Trote telefônico, Cartoon, Partido político zuado, Paródia"
+763,Reconhecimento de gestos da mão utilizando aprendizagem automática em Python
+764,Análise de dados
+765,Introdução à ciência dos dados
+766,Chuvas Intensas e Marés Crescentes em Moçambique: Desafios e Estratégias Diante do Aumento do Nível do Mar
