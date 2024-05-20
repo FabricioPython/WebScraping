@@ -72,5 +72,5 @@ class Scraping:
 
 ## Screenshots
 
-<img src="/img/print.png">
+<img src="/Livros_python_amazom_ptbr/img/print.png">
 
